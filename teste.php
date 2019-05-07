@@ -8,4 +8,5 @@
 		return false;
 	}
 
+	echo $a + $b;
 >
